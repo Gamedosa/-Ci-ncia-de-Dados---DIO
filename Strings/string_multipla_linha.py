@@ -7,3 +7,7 @@ Eu estou aprendendo python.
     '''
 
 print(mensagem)
+
+nomeRestaurante = str(input("McDonalds"))
+tempoEstimadoEntrega = int(input(10))
+print(f´O restaurante ${nomeRestaurante} entrega em ${tempoEstimadoEntrega}´)
